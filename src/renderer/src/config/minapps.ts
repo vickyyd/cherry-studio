@@ -143,7 +143,7 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   {
     id: 'anthropic',
     name: 'Claude',
-    url: 'https://claude.ai/',
+    url: 'https://claude.ooop.uk/',
     logo: ClaudeAppLogo
   },
   {
